@@ -41,7 +41,7 @@ I am a results-driven developer with expertise in building efficient, scalable w
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([T[U_LINK_DE_LINKEDIN_AQUI](https://www.linkedin.com/in/tatianas%C3%A1nchezphillips/)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatianas%C3%A1nchezphillips/)
 [![Mail](https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=icloud&logoColor=white)](mailto:tatiiphillips@yahoo.com.mx)
 
 ---
