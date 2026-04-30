@@ -1,6 +1,6 @@
 # Hi there! I'm Tatiana 👋
 
-### Full-Stack Software Developer | Python (Django) & C# Specialist
+### Full-Stack Software Developer | Python, JavaScript (Django) & C# Specialist
 
 I am a results-driven developer with expertise in building efficient, scalable web applications and custom software solutions. I combine strong analytical skills—rooted in my background in Science from **UNAM**—with hands-on experience in database management and interface design for professional environments.
 
