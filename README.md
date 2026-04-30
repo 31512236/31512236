@@ -38,6 +38,30 @@ I am a results-driven developer with expertise in building efficient, scalable w
 *   **Self-directed learning & Adaptability**
 
 ---
+### Proyectos Destacados
+
+<table border="0">
+  <tr>
+    <td width="33%" align="center">
+      <a href="[https://github.com/31512236/CS50W-Projects](https://github.com/31512236/CS50-s-Web-Programming-with-Python-and-JavaScript)">
+        <img src="https://img.shields.io/badge/EDUCACIÓN_TÉCNICA-CS50W-red?style=for-the-badge&logo=harvard&logoColor=white" width="100%"><br>
+        <sub><b>Harvard CS50 Projects</b><br>Python, Django & JS</sub>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="[https://github.com/31512236/Capilaroscopio-UI](https://github.com/31512236/Medical-Interface-and-UI-Example-)">
+        <img src="https://img.shields.io/badge/PROYECTO_ESTRELLA-CAPILAROSCOPIO-blue?style=for-the-badge&logo=sharp&logoColor=white" width="100%"><br>
+        <sub><b>Medical-Interface-and-UI-Example</b><br>C#, .NET & SQLite</sub>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="[https://github.com/31512236/Corporate-Web-Design](https://github.com/31512236/Freelance-Web-Software-Solutions)">
+        <img src="https://img.shields.io/badge/IN_THE_LAB-WEB_DESIGN-green?style=for-the-badge&logo=photopea&logoColor=white" width="100%"><br>
+        <sub><b>Freelance-Web-Software-Solutions</b><br>Photopea & E-commerce</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Connect with me
 
