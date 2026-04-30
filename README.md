@@ -1,4 +1,4 @@
-# Hi there! I'm Tatiana 👋
+# Hi there! I'm Tatiana 
 
 ### Full-Stack Software Developer | Python, JavaScript (Django) & C# Specialist
 
@@ -6,7 +6,7 @@ I am a results-driven developer with expertise in building efficient, scalable w
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -20,16 +20,16 @@ I am a results-driven developer with expertise in building efficient, scalable w
 
 ---
 
-### 🚀 Professional Experience & Projects
+### Professional Experience & Projects
 
-*   💻 Software Developer | (September 2025 – Present): Expert in architecting relational databases (SQL/SQLite) for patient registry systems and engineering high-performance user interfaces (C#) for medical equipment. Proficient in building robust backend logic and responsive web ecosystems using Python (Django) and JavaScript, delivering scalable solutions and ensuring seamless data management across diverse software platforms.
-*   🌐 Web Solutions & UI Design: Expert in developing and managing independent websites using Python (Django) and JavaScript, with a strong focus on high-quality front-end architecture using HTML5 and CSS3. I leverage tools like Photopea to design intuitive user interfaces and visual assets, ensuring a seamless bridge between aesthetic design and robust backend logic, including e-commerce and payment integrations.
-*   📊 **Data Engineering:** Experience in Python scripting for big data, process automation (Pandas/NumPy), and data visualization (Matplotlib).
-*   🎓 **Continuous Learning:** Currently completing **Harvard's CS50W** to further master web programming with Python and JavaScript.
+*   **Software Developer | (September 2025 – Present):** Expert in architecting relational databases (SQL/SQLite) for patient registry systems and engineering high-performance user interfaces (C#) for medical equipment. Proficient in building robust backend logic and responsive web ecosystems using Python (Django) and JavaScript, delivering scalable solutions and ensuring seamless data management across diverse software platforms.
+*   **Web Solutions & UI Design:** Expert in developing and managing independent websites using Python (Django) and JavaScript, with a strong focus on high-quality front-end architecture using HTML5 and CSS3. I leverage tools like Photopea to design intuitive user interfaces and visual assets, ensuring a seamless bridge between aesthetic design and robust backend logic, including e-commerce and payment integrations.
+*   **Data Engineering:** Experience in Python scripting for big data, process automation (Pandas/NumPy), and data visualization (Matplotlib).
+*   **Continuous Learning:** Currently completing **Harvard's CS50W** to further master web programming with Python and JavaScript.
 
 ---
 
-### 🌟 Soft Skills
+### Soft Skills
 
 *   **Innovative & Creative Mindset**
 *   **Problem-solving & Analytical thinking** (Scientific background)
@@ -39,7 +39,7 @@ I am a results-driven developer with expertise in building efficient, scalable w
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatianas%C3%A1nchezphillips/)
 [![Mail](https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=icloud&logoColor=white)](mailto:tatiiphillips@yahoo.com.mx)
